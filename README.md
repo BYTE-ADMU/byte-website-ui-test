@@ -19,24 +19,31 @@ Made with Gatsby.js and TailwindCSS
     git clone https://github.com/BYTE-ADMU/byte-website-ui.git
     ```
 
-2.  **Clone reportsitory**
-
-    Install project dependencies:
-
-    ```shell
-    npm install
-    ```
-
-3.  **Start developing.**
+2.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
     ```shell
     cd byte-website-ui/
+    ```
+
+3.  **Install project dependencies**
+
+    Use the following command:
+
+    ```shell
+    npm install
+    ```
+
+4.  **Start developing.**
+
+    Start it up using the command:
+
+    ```shell
     gatsby develop
     ```
 
-4.  **Open the source code and start editing!**
+5.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
