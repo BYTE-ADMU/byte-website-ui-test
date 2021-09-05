@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.swiper-pagination-bullet {
+  opacity: 1;
+  border: white solid 1px;
+  height: 20px;
+  background-color: transparent;
+}
+.swiper-pagination-bullet-active {
+  background-color: white;
+}
+
+.customOverlay {
+  background: rgba(36, 123, 160, 0.7);
+}
+.customModal {
+  max-width: none;
+}
